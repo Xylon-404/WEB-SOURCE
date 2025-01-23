@@ -1,7 +1,7 @@
 
 # :trollface: WEB-SOURCE :trollface:
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=GITHUB%20-INFO&fontSize=90&animation=fadeIn&fontAlignY=38&desc=PYTHON%20TOOLS%20AND%20SCRIPT%MADE%20BY%20XYLON!&descAlignY=51&descAlign=62" width="100%"/>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=WEB%20-SOURCE&fontSize=90&animation=fadeIn&fontAlignY=38&desc=PYTHON%20TOOLS%20AND%20SCRIPT%MADE%20BY%20XYLON!&descAlignY=51&descAlign=62" width="100%"/>
 
 ## Requirements - 
 - Stable Internet Connection
