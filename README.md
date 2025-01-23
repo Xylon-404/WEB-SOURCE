@@ -29,5 +29,5 @@ python ꪝ𝙴ß交ꢺøᴜ͢𝚁ꮯᴱ.py
 ```
 
 <p align="center">
-<img src="XYLON.png" height="300">
+<img src="XYLON.png"
 </p> 
