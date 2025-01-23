@@ -17,7 +17,9 @@
 <img src="https://user-images.githubusercontent.com/100603074/210680535-40d8c113-2336-4417-bdb4-4825a7477164.png" height="300">
 </p> 
 #### INSTALL TOOL ON TERMUX
+
 ```python
+
 pkg install python
 pip install requests
 pip install bs4
